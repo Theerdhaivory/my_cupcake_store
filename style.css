@@ -1,0 +1,72 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/10855.png");
+    background-repeat: no-repeat;
+   
+}
+h3{
+font-family: 'Elsie', cursive;
+font-size: 40px;
+color: #ee8aa6;
+}
+h4{
+    font-family: Amatic Sc,cursive;
+    font-size: 30px;
+    color: #A7727D;
+}
+p{
+    font-family: Sacramento,cursive;
+    font-size: 30px;
+    color: #ee8aa6;
+}
+#submit_bt{
+   background-color: #D14D72;
+   color: #fff;
+   border: #fff;
+   width: 100px;
+   height: 30px;
+   
+   
+}
+input{
+    color: #fff;
+    background-color: #ee8aa6;
+    border: #fff;
+    
+}
+div{
+    font-size: 35px;
+    color: #fff;
+    font-family: Amatic Sc,cursive;
+   
+}
+#flavor_input_1{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+#flavor_input_2{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+#flavor_input_3{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+#flavor_input_4{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+#flavor_input_5{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+#flavor_input_6{
+    width: 250px;
+    height: 30px;
+    text-align:center;
+}
+
